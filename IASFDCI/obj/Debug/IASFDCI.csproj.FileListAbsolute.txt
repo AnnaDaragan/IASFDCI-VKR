@@ -1,0 +1,13 @@
+C:\Users\yanak\Desktop\IASFDCI\obj\Debug\IASFDCI.csprojAssemblyReference.cache
+C:\Users\yanak\Desktop\IASFDCI\obj\Debug\IASFDCI.Properties.Resources.resources
+C:\Users\yanak\Desktop\IASFDCI\obj\Debug\IASFDCI.csproj.GenerateResource.cache
+C:\Users\yanak\Desktop\IASFDCI\obj\Debug\IASFDCI.csproj.CoreCompileInputs.cache
+C:\Users\yanak\Desktop\IASFDCI\obj\Debug\IASFDCI.MainForm.resources
+C:\Users\yanak\Desktop\IASFDCI\obj\Debug\IASFDCI.RegistrationForm.resources
+C:\Users\yanak\Desktop\IASFDCI\obj\Debug\IASFDCI.MailSendForm.resources
+C:\Users\yanak\Desktop\IASFDCI\obj\Debug\IASFDCI.PersonalCabinetForm.resources
+C:\Users\yanak\Desktop\IASFDCI\bin\Debug\IASFDCI.exe.config
+C:\Users\yanak\Desktop\IASFDCI\bin\Debug\IASFDCI.exe
+C:\Users\yanak\Desktop\IASFDCI\bin\Debug\IASFDCI.pdb
+C:\Users\yanak\Desktop\IASFDCI\obj\Debug\IASFDCI.exe
+C:\Users\yanak\Desktop\IASFDCI\obj\Debug\IASFDCI.pdb
